@@ -1,0 +1,29 @@
+commit 0ca9e900496f91824305977a051380280760e095
+Author: Dominguez Bueno Ricardo <13170250@itculiacan.edu.mx>
+Date:   Tue Jul 4 09:54:58 2017 -0600
+
+    Integracion de bootstrap
+
+commit 976696c44b6a35a18b544335eab919a65b99bc4a
+Author: Dominguez Bueno Ricardo <13170250@itculiacan.edu.mx>
+Date:   Tue Jul 4 09:49:36 2017 -0600
+
+    Se agrego footer a la pagina
+
+commit ecfdd0091e2a97fbff052fd0990f4e780036442f
+Author: Dominguez Bueno Ricardo <13170250@itculiacan.edu.mx>
+Date:   Tue Jul 4 09:46:49 2017 -0600
+
+    Se agrego imagen y descripcion de la pagina
+
+commit 72c1a92a989b36d3d13341f2325d69379e569291
+Author: Dominguez Bueno Ricardo <13170250@itculiacan.edu.mx>
+Date:   Tue Jul 4 09:41:56 2017 -0600
+
+    Se agrego titulo de la pagina
+
+commit a040e1740b1025ed53a48cf5f81931c0fc723a04
+Author: Dominguez Bueno Ricardo <13170250@itculiacan.edu.mx>
+Date:   Tue Jul 4 09:39:11 2017 -0600
+
+    proyecto con estructura inicial
